@@ -1,4 +1,5 @@
-# Automatizador de PDOS - GNC/UFPI
+# Orbi.py
+### Automatizador de PDOS - GNC/UFPI
 
 ---
 
@@ -110,4 +111,4 @@ Orientador: Prof. Dr. Ramon Sampaio F.
 📧 Contato: henrique.liberato@ufpi.edu.br
 
 🔗 Conheça o GNC escaneando o QR Code abaixo:
-![](https://github.com/HenriqueDFT/Orbi.py/blob/main/qr(1)(1).png = 150x200)
+![](https://github.com/HenriqueDFT/Orbi.py/blob/main/qr(1)(1).png)
