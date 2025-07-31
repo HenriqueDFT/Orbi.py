@@ -105,10 +105,10 @@ Este software é um trabalho acadêmico desenvolvido por:
 
 Henrique Lago Liberato
 Aluno de Física do ICV - UFPI
-Membro do Grupo de Nanofísica Computacional (GNC)
+Membro do Grupo de Nanofísica Computacional (GNC) <br>
 Orientador: Prof. Dr. Ramon Sampaio F.
 
 📧 Contato: henrique.liberato@ufpi.edu.br
 
-🔗 Conheça o GNC escaneando o QR Code abaixo:
-![](https://github.com/HenriqueDFT/Orbi.py/blob/main/qr(1)(1).png)
+🔗 Conheça o GNC escaneando o QR Code abaixo:  
+<img src="https://github.com/HenriqueDFT/Orbi.py/blob/main/qr(1)(1).png?raw=true" alt="QR Code GNC" width="200"/>
