@@ -31,7 +31,7 @@ O software foi criado com o intuito de facilitar a análise de dados computacion
 pip install Pillow
 
 ## 📁 Estrutura do Projeto
-
+'''
 seu_projeto/
 ├── __init__.py
 ├── main_app.py
@@ -47,7 +47,7 @@ seu_projeto/
     ├── gnc(1).png
     ├── ufpi.png
     └── qr(1)(1).png
-
+'''
 Certifique-se de que a pasta assets/ contém as imagens necessárias.
 ## ▶️ Executando o Programa
 
