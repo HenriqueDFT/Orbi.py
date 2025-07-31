@@ -30,8 +30,8 @@ O software foi criado com o intuito de facilitar a análise de dados computacion
 
 pip install Pillow
 
-## 📁 Estrutura do Projeto
-'''
+
+```text
 seu_projeto/
 ├── __init__.py
 ├── main_app.py
@@ -44,10 +44,10 @@ seu_projeto/
 │   ├── pdos_processor.py
 │   └── constants.py
 └── assets/
-    ├── gnc(1).png
+    ├── gnc.png
     ├── ufpi.png
-    └── qr(1)(1).png
-'''
+    └── qr_code.png
+```
 Certifique-se de que a pasta assets/ contém as imagens necessárias.
 ## ▶️ Executando o Programa
 
@@ -110,4 +110,4 @@ Orientador: Prof. Dr. Ramon Sampaio F.
 📧 Contato: henrique.liberato@ufpi.edu.br
 
 🔗 Conheça o GNC escaneando o QR Code abaixo:
-![qr(1)(1).png]()
+![qr(1)(1).png](https://github.com/HenriqueDFT/Orbi.py/blob/main/qr(1)(1).png)
