@@ -54,9 +54,9 @@ Certifique-se de que a pasta assets/ contém as imagens necessárias.
 
     Clone este repositório ou baixe os arquivos.
 
-    Navegue até o diretório raiz do projeto (onde está o main_app.py).
-
-    Execute o programa com:
+    Navegue até o diretório raiz do projeto (onde está o orbi.zip).
+    Baixe a página e extraia.
+    Dentro da pasta execute o programa com: 
 
 python main_app.py
 
