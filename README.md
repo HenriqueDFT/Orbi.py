@@ -61,28 +61,25 @@ python3 orbi.py
 
 ## 🧭 Passos na Interface Gráfica
 
-    Selecionar Arquivo PDOS
-    Clique em "Procurar..." e selecione o arquivo .PDOS gerado pelo seu cálculo.
+Para usar o programa de forma eficiente, siga estes passos simples:
 
-    Informar os Elementos
+1.  **Selecione o Arquivo `.PDOS`**:
+    * Clique no botão "Procurar..." e escolha o arquivo `.PDOS` gerado pelo seu cálculo.
 
-        Para projeção: Digite os símbolos separados por vírgula (ex: C,O,Fe).
+2.  **Informe os Elementos**:
+    * **Para projeção**: Digite os símbolos dos elementos separados por vírgula (ex: `C, O, Fe`).
+    * **Para todos os elementos**: Digite `all` para processar automaticamente todos os elementos do arquivo.
+    * **Para importar**: Use o botão "Carregar Elementos do FDF" para importar os símbolos diretamente de um arquivo `.fdf`.
 
-        Digite all para processar todos os elementos suportados.
+3.  **Defina o Nome da Pasta de Saída**:
+    * Digite o nome da pasta onde os arquivos `.dat` serão salvos.
 
-        Ou use o botão "Carregar Elementos do FDF" para importar os símbolos a partir de um arquivo .fdf.
+4.  **Escolha a Ação**:
+    * Clique em "Extrair PDOS Projetado" para gerar arquivos separados por orbital para cada elemento.
+    * Clique em "Extrair TDOS" para gerar um único arquivo `TOTAL_DOS.dat`.
 
-    Nome da Pasta de Saída
-    Defina o nome da pasta onde os arquivos .dat serão salvos.
-
-    Escolher Ação
-
-        Clique em "Extrair PDOS Projetado" para gerar arquivos separados por orbital.
-
-        Clique em "Extrair TDOS" para gerar um único arquivo TOTAL_DOS.dat.
-
-    Verificar o Log
-    A área de log exibirá o status, avisos e mensagens de erro.
+5.  **Verifique o Log**:
+    * A área de log exibirá o status do processamento, incluindo avisos e mensagens de erro.
 
 ## 🛠️ Desenvolvimento
 
