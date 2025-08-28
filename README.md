@@ -25,17 +25,16 @@ O software foi criado com o intuito de facilitar a análise de dados computacion
 
 ### 📦 Pré-requisitos
 
-- Python 3.x instalado  
-- Instalar o `Pillow` com:
+Para usar o Orbi.py, você precisa ter **Python 3.x** instalado. As dependências externas são listadas no arquivo `requirements.txt`.
 
-
-pip install Pillow
-
+Para instalar as dependências, execute o seguinte comando:
+```bash
+pip install -r requirements.txt
 
 ```text
 seu_projeto/
 ├── __init__.py
-├── main_app.py
+├── orbi.py
 ├── gui/
 │   ├── __init__.py
 │   ├── main_window.py
@@ -99,6 +98,11 @@ Este projeto foi desenvolvido em Python 3.x e utiliza:
 
 Contribuições são bem-vindas!
 Sinta-se à vontade para abrir uma issue ou enviar um pull request com sugestões, correções ou novas funcionalidades.
+
+## ⚖️ Licença
+
+Distribuído sob a [Licença MIT](https://opensource.org/licenses/MIT). Veja o arquivo `LICENSE` para mais detalhes.
+
 ## 👨‍🔬 Sobre
 
 Este software é um trabalho acadêmico desenvolvido por:
