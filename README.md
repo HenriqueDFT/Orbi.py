@@ -57,7 +57,7 @@ Certifique-se de que a pasta assets/ contém as imagens necessárias.
     Baixe a página e extraia.
     Dentro da pasta execute o programa com: 
 
-python main_app.py
+python3 orbi.py
 
 ## 🧭 Passos na Interface Gráfica
 
